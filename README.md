@@ -45,7 +45,7 @@
 
 ## 📱 **Contact Me**  
 [![Github](https://img.shields.io/badge/GitHub-gbdiwal-black?style=flat-square&logo=github)](https://github.com/gbdiwal)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Gbdiwal-green?style=flat-square&logo=whatsapp)](YOUR_WHATSAPP_LINK)  
+[![WhatsApp]([https://img.shields.io/badge/WhatsApp-Gbdiwal-green?style=flat-square&logo=whatsapp](https://wa.me/923093642661))](YOUR_WHATSAPP_LINK)  
 📧 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
 
 ---
