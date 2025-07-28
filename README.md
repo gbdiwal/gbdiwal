@@ -1,58 +1,62 @@
-# 👋 Hi, I’m **Gbdiwal**  
-### **Full-Stack Web Developer & Domain Seller**  
-
-I specialize in **Website Development**, handling both **Front-end** and **Back-end** with a passion for clean, efficient code. I also provide **Domain Selling** services to help businesses establish their online presence.  
+# <img src="https://raw.githubusercontent.com/AKING110/AKING110/main/logo/wallpaperbetter_(1).jpg" width="40px"> **Gbdiwal**  
+### **Full-Stack Web Developer | Domain Seller**  
 
 ---
 
-## 💻 **Skills & Expertise**  
+## 📌 **About Me**  
+- 💻 **Website Developer** (Frontend & Backend)  
+- 🌐 **Domain & Hosting** Provider  
+- 🔧 Passionate about **clean, efficient code**  
 
-### **Front-End Development**  
+---
+
+## 🛠 **Tech Stack**  
+### **Frontend Development**  
 ✔ HTML5 | CSS | JavaScript  
-✔ Responsive & Mobile-First Design  
-✔ Modern UI/UX Implementation  
+✔ Responsive & Modern UI/UX  
 
-### **Back-End Development**  
+### **Backend Development**  
 ✔ PHP | Python  
 ✔ Database Management  
-✔ Server-Side Logic  
 
 ### **Programming Languages**  
 ✔ C | C++  
-✔ Python (Scripting & Automation)  
+✔ Python (Scripting/Automation)  
 
 ### **Other Services**  
 ✔ **Domain Registration & Selling**  
-✔ Website Deployment & Hosting Support  
+✔ Website Deployment  
 
 ---
 
-## 🚀 **What I Do**  
-- Build **fast, scalable, and secure** websites.  
-- Develop **custom web solutions** tailored to client needs.  
-- Help clients **secure the perfect domain** for their brand.  
+## 📊 **GitHub Stats**  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbdiwal&show_icons=true&theme=dark)](https://github.com/gbdiwal)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbdiwal&layout=compact)](https://github.com/gbdiwal)  
 
 ---
 
-## 📫 **Get in Touch**  
-🔗 **Portfolio:** [Your Portfolio Link]  
-📧 **Email:** [Your Email]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
+## 🔥 **Featured Projects**  
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=gbdiwal&repo=REPO_NAME&theme=vision-friendly-dark)](LINK_TO_REPO)  
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=gbdiwal&repo=REPO_NAME&theme=vision-friendly-dark)](LINK_TO_REPO)  
+
+*(Replace with your actual repos)*  
 
 ---
 
-### 🛠 **Currently Working On**  
-- Improving my **Python & C++** skills.  
-- Expanding my **domain business**.  
-- Contributing to **open-source projects**.  
-
-⭐ **Fun Fact:** I love solving complex problems with simple, elegant code!  
+## 📱 **Contact Me**  
+[![Github](https://img.shields.io/badge/GitHub-gbdiwal-black?style=flat-square&logo=github)](https://github.com/gbdiwal)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Gbdiwal-green?style=flat-square&logo=whatsapp)](YOUR_WHATSAPP_LINK)  
+📧 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
 
 ---
 
-📊 **GitHub Stats** (Optional - You can add later)  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbdiwal&show_icons=true&theme=radical)  
+### 🎯 **Currently Working On**  
+- Enhancing **Python/PHP** skills  
+- Expanding **domain business**  
+- Building **web automation tools**  
+
+⭐ **Fun Fact:** I enjoy solving problems with minimalistic code!  
 
 ---
 
-🔝 **Let’s collaborate!** Open to exciting projects and new opportunities.  
+🔝 **Open for collaborations – Let’s build something great!**  
