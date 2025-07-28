@@ -1,31 +1,58 @@
-* FOR CONTACT :
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923150665740)
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
-___
-_IMTIAZ AKING_
-___
-Contact : Mrakingcmd@gmail.com
+# 👋 Hi, I’m **Gbdiwal**  
+### **Full-Stack Web Developer & Domain Seller**  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AKING110&show_icons=true&theme=dark)
-<a href="https://github.com/AKING110/AKING-PRO"><img title="AKING-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=AKING-PRO&theme=vision-friendly-dark"></a>
-<a href="https://github.com/AKING110/AKING"><img title="AKING" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=AKING&theme=vision-friendly-dark"></a>
-<a href="https://github.com/AKING110/Random"><img title="Random" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=Random&theme=vision-friendly-dark"></a>
+I specialize in **Website Development**, handling both **Front-end** and **Back-end** with a passion for clean, efficient code. I also provide **Domain Selling** services to help businesses establish their online presence.  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKING110&layout=compact" alt="Top language">
+---
 
-![template_s](https://raw.githubusercontent.com/AKING110/AKING110/main/logo/wallpaperbetter_(1).jpg)
-hub)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923150665740)
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
-___
-_IMTIAZ AKING_
-___
-Contact : Mrakingcmd@gmail.com
+## 💻 **Skills & Expertise**  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AKING110&show_icons=true&theme=dark)
-<a href="https://github.com/AKING110/AKING-PRO"><img title="AKING-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=AKING-PRO&theme=vision-friendly-dark"></a>
-<a href="https://github.com/AKING110/AKING"><img title="AKING" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=AKING&theme=vision-friendly-dark"></a>
-<a href="https://github.com/AKING110/Random"><img title="Random" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=Random&theme=vision-friendly-dark"></a>
+### **Front-End Development**  
+✔ HTML5 | CSS | JavaScript  
+✔ Responsive & Mobile-First Design  
+✔ Modern UI/UX Implementation  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKING110&layout=compact" alt="Top language">
+### **Back-End Development**  
+✔ PHP | Python  
+✔ Database Management  
+✔ Server-Side Logic  
 
-![template_s](https://raw.githubusercontent.com/AKING110/AKING110/main/logo/wallpaperbetter_(1).jpg)
+### **Programming Languages**  
+✔ C | C++  
+✔ Python (Scripting & Automation)  
+
+### **Other Services**  
+✔ **Domain Registration & Selling**  
+✔ Website Deployment & Hosting Support  
+
+---
+
+## 🚀 **What I Do**  
+- Build **fast, scalable, and secure** websites.  
+- Develop **custom web solutions** tailored to client needs.  
+- Help clients **secure the perfect domain** for their brand.  
+
+---
+
+## 📫 **Get in Touch**  
+🔗 **Portfolio:** [Your Portfolio Link]  
+📧 **Email:** [Your Email]  
+💼 **LinkedIn:** [Your LinkedIn Profile]  
+
+---
+
+### 🛠 **Currently Working On**  
+- Improving my **Python & C++** skills.  
+- Expanding my **domain business**.  
+- Contributing to **open-source projects**.  
+
+⭐ **Fun Fact:** I love solving complex problems with simple, elegant code!  
+
+---
+
+📊 **GitHub Stats** (Optional - You can add later)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbdiwal&show_icons=true&theme=radical)  
+
+---
+
+🔝 **Let’s collaborate!** Open to exciting projects and new opportunities.  
