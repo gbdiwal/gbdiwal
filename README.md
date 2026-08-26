@@ -1,62 +1,15 @@
-# <img src="https://raw.githubusercontent.com/AKING110/AKING110/main/logo/wallpaperbetter_(1).jpg" width="40px"> **Gbdiwal**  
-### **Full-Stack Web Developer | Domain Seller**  
+# 💫 About Me:
+Full-Stack Web Developer | Domain Seller<br>📌 About Me<br>💻 Website Developer (Frontend & Backend)<br>🌐 Domain & Hosting Provider<br>🔧 Passionate about clean, efficient code<br>🛠 Tech Stack<br>Frontend Development<br>✔ HTML5 | CSS | JavaScript<br>✔ Responsive & Modern UI/UX<br><br>Backend Development<br>✔ PHP | Python<br>✔ Database Management<br><br>Programming Languages<br>✔ C | C++<br>✔ Python (Scripting/Automation)<br><br>Other Services<br>✔ Domain Registration & Selling<br>✔ Website Deployment
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gbdiwal&theme=outrun&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=gbdiwal&theme=outrun&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gbdiwal&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=gbdiwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 **About Me**  
-- 💻 **Website Developer** (Frontend & Backend)  
-- 🌐 **Domain & Hosting** Provider  
-- 🔧 Passionate about **clean, efficient code**  
-
----
-
-## 🛠 **Tech Stack**  
-### **Frontend Development**  
-✔ HTML5 | CSS | JavaScript  
-✔ Responsive & Modern UI/UX  
-
-### **Backend Development**  
-✔ PHP | Python  
-✔ Database Management  
-
-### **Programming Languages**  
-✔ C | C++  
-✔ Python (Scripting/Automation)  
-
-### **Other Services**  
-✔ **Domain Registration & Selling**  
-✔ Website Deployment  
-
----
-
-## 📊 **GitHub Stats**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbdiwal&show_icons=true&theme=dark)](https://github.com/gbdiwal)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbdiwal&layout=compact)](https://github.com/gbdiwal)  
-
----
-
-## 🔥 **Featured Projects**  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=gbdiwal&repo=REPO_NAME&theme=vision-friendly-dark)](LINK_TO_REPO)  
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=gbdiwal&repo=REPO_NAME&theme=vision-friendly-dark)](LINK_TO_REPO)  
-
-*(Replace with your actual repos)*  
-
----
-
-## 📱 **Contact Me**  
-[![Github](https://img.shields.io/badge/GitHub-gbdiwal-black?style=flat-square&logo=github)](https://github.com/gbdiwal)  
-[![WhatsApp]([https://img.shields.io/badge/WhatsApp-Gbdiwal-green?style=flat-square&logo=whatsapp](https://wa.me/923093642661))](YOUR_WHATSAPP_LINK)  
-📧 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
-
----
-
-### 🎯 **Currently Working On**  
-- Enhancing **Python/PHP** skills  
-- Expanding **domain business**  
-- Building **web automation tools**  
-
-⭐ **Fun Fact:** I enjoy solving problems with minimalistic code!  
-
----
-
-🔝 **Open for collaborations – Let’s build something great!**  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
